@@ -3,4 +3,4 @@
 <h1>Preview</h1>
 <div align="center" margin="50px">
 	<img src="src/Relogio-digital.jpg/>
-</div>      
+</div>
